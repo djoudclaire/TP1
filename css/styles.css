@@ -1,0 +1,154 @@
+img {
+    max-width: 100%;
+    height:auto;
+    max-width: auto ;
+    max-height: 15 px ;
+    border-radius: 50%;
+}
+#film
+{
+    width : 150px;
+height : 150px;
+}
+
+table, td, th {
+    border:black;
+    border-collapse: collapse; 
+    size: 100%;
+    background-color:white;
+    padding: left 55px;
+    padding-right: 55px;
+    padding-bottom: 55px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(36, 19, 51);
+   color:white;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image:linear-gradient(rgb(50, 6, 71),rgb(52, 52, 141));
+}
+
+#distribution{
+background-color: rgb(75, 25, 75);
+color: white;
+}
+
+#chris{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+#evans{
+    color: purple;
+}
+#cris
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius: 50%;
+}
+#jeremy
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius: 50%;
+}
+#renner
+{
+    color: purple;
+}
+
+#hem
+{
+    color:purple;
+}
+
+#mark
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+#ruffalo
+{
+    color: purple;
+}
+#robert
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block; 
+    border-radius: 50%; 
+}
+#jr
+{
+    color:purple
+}
+#scarlett
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;   
+}
+
+#john
+{
+    color:purple
+}
+
+#tom
+{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;  
+    border-radius: 50%;
+}
+
+#hid
+{
+    color:purple
+}
+
