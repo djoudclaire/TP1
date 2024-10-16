@@ -16,9 +16,9 @@ table, td, th {
     border-collapse: collapse; 
     size: 100%;
     background-color:white;
-    padding: left 55px;
-    padding-right: 55px;
-    padding-bottom: 55px;
+    padding: left 75px;
+    padding-right: 75px;
+    padding-bottom: 75px;
 }
 
 h1{
